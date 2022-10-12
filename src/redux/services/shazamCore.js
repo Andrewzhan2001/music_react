@@ -13,8 +13,10 @@ export const shazamApi = createApi({
   // operations want to perform against your server
   endpoints: (builder) => ({
     getTopCharts: builder.query({ query: () => '/charts/track' }),
+    getSongDetails: builder.query({ query: ({ songid }) => `/songs/get-details?key=${songid}` }),
+    getSongRelated: builder.query({ query: ({ songid }) => `/songs/list-recommendations?key=${songid}` }),
   }),
 });
 
 // use + endpoint name + Query
-export const { useGetTopChartsQuery } = shazamApi;
+export const { useGetTopChartsQuery, useGetSongDetailsQuery, useGetSongRelatedQuery } = shazamApi;
