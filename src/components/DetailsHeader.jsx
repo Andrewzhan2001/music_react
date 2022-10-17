@@ -1,6 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
+// we will put artistdata in artistdetials page, put songdata in songdetials page
 const DetailsHeader = ({ artistId, artistData, songData }) => (
   <div className="relative w-full flex flex-col">
 
