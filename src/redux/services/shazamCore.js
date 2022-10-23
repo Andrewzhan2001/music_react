@@ -23,4 +23,4 @@ export const shazamApi = createApi({
 });
 
 // use + endpoint name + Query
-export const { useGetTopChartsQuery,useGetSongsByGenreQuery, useGetSongDetailsQuery, useGetSongRelatedQuery, useGetArtistDetailsQuery, useGetArtistTopSongsQuery,useGetSongsBySearchQuery } = shazamApi;
+export const { useGetTopChartsQuery, useGetSongsByGenreQuery, useGetSongDetailsQuery, useGetSongRelatedQuery, useGetArtistDetailsQuery, useGetArtistTopSongsQuery, useGetSongsBySearchQuery } = shazamApi;
