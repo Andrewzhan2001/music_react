@@ -7,8 +7,9 @@
 </p>
 
 ## 🏁 Demo
-
 The following video is a demonstration of this website.
+
+https://user-images.githubusercontent.com/97903569/228290246-b5a6a9f3-95a4-4470-a61a-190cad300405.mp4
 
 ## 🎈 Features
 - Fully functional music player where user can stop, play, switch songs, single cycle and randomize the playlist.
@@ -18,3 +19,4 @@ The following video is a demonstration of this website.
 - Using the `Redux` toolkit for REST API requests and player state management.
 - Get music resources from Shazam API from `RapidAPI` Hub.
 - Use the `TailwindCSS` library to create CSS styles.
+- Project website is deployed to `AWS` Amplify Hosting
