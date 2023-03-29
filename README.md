@@ -12,6 +12,7 @@ The following video is a demonstration of this website.
 https://user-images.githubusercontent.com/97903569/228290246-b5a6a9f3-95a4-4470-a61a-190cad300405.mp4
 
 ## 🎈 Features
+- Fully responsive website adaptive to phone and tablet view.
 - Fully functional music player where user can stop, play, switch songs, single cycle and randomize the playlist.
 - Users can also scroll the progress bar to update the progress of the music player and adjust the volume.
 - User can access the top songs, top artists, song details, artist details and their related songs. 
