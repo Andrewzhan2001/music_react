@@ -6,8 +6,9 @@
     <br> 
 </p>
 
+### The website is deployed to AWS, you can access the project through this [Link](https://master.d2nmkiw2gegdss.amplifyapp.com/).  
+
 ## 🏁 Demo
-The website is deployed to AWS, you can access the project through this [Link](https://master.d2nmkiw2gegdss.amplifyapp.com/).  
 The following video is a demonstration of this website.
 
 https://user-images.githubusercontent.com/97903569/228290246-b5a6a9f3-95a4-4470-a61a-190cad300405.mp4
